@@ -13,7 +13,7 @@ export NETCDF_ROOT=/cluster/software/VERSIONS/netcdf.intel-4.3.3.1
 # Input
 export CESM_DATA=/cluster/shared/noresm/inputdata
 export MYCTSMDATA=$USERWORK/inputdata
-export REG_DATA=/cluster/projects/nn9373k/gelati/data_regional_SBS
+export REG_DATA=/cluster/projects/nn9373k/data_regional_SBS
 export root_frc=/cluster/shared/noresm/inputdata/atm/datm7
 # Model components (compset)
 export compset=I2000Clm50SpGs # $CTSMROOT/cime/scripts/query_config --compsets clm
